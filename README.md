@@ -27,6 +27,8 @@ link-in-bio/
 ## Funcionalidades
 
 - Design moderno e responsivo
+- Tema claro/escuro automático (com botão de alternância)
+- Cores adaptativas com variáveis CSS para contraste apropriado em dark mode
 - Foto de perfil circular
 - Ícones de redes sociais clicáveis
 - Botões de links com animações de hover
