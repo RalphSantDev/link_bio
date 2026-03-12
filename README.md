@@ -1,6 +1,6 @@
 # Link in Bio - Raphael Santana
 
-Este é um projeto web estilo Linktree criado para centralizar links pessoais de Raphael Santana.
+Este é um projeto web estilo Linktree criado para centralizar links pessoais.
 
 ## Tecnologias Utilizadas
 
@@ -36,7 +36,7 @@ link-in-bio/
 ## Como Usar
 
 1. Clone ou baixe os arquivos
-2. Substitua a imagem `assets/profile.jpg` pela sua foto de perfil
+2. Substitua ou adicione a imagem `assets/profile.jpg` pela sua foto de perfil
 3. Atualize os links nos botões e ícones sociais no `index.html`
 4. Abra o `index.html` em um navegador
 
