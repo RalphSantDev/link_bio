@@ -195,7 +195,7 @@ body.dark .social-icon {
 .links-section {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 19px; /* espaço entre os botões */
 }
 
 .link-button {
